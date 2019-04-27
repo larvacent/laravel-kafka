@@ -5,7 +5,7 @@
  * @license http://www.larvacent.com/license/
  */
 
-namespace Larva\Kafka\Queue;
+namespace Larva\Kafka;
 
 use Illuminate\Support\Facades\Facade;
 

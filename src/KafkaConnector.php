@@ -5,7 +5,7 @@
  * @license http://www.larvacent.com/license/
  */
 
-namespace Larva\Kafka\Queue;
+namespace Larva\Kafka;
 
 use RdKafka\KafkaConsumer;
 use RdKafka\Producer;
